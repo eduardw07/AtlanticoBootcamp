@@ -1,0 +1,6 @@
+Variável,Descrição,Tipo,Subtipo
+Country,País,Qualitativa,Nominal
+beer_servings,"Consumo de cerveja (por pessoa, em litros)",Quantitativa,Discreta
+spirit_servings,"Consumo de destilados (por pessoa, em litros)	",Quantitativa,Discreta
+wine_servings,"Consumo de vinho (por pessoa, em litros)	",Quantitativa,Discreta
+total_litres_of_pure_alcohol,"Consumo total de álcool puro (por pessoa, em litros)",Quantitativa,Contínua
